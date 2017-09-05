@@ -1,0 +1,15 @@
+{
+  "name": "koremutake",
+  "description": "Implementation Koremutake MeRS encoding/decoding for node.",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=0.2.6"
+  },
+  "author": "Magnus Bodin <magnus@bodin.org>",
+  "keywords": ["koremutake", "encoding"],
+  "main": "./lib/koremutake/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wqa/koremutake.git"
+  }
+}
