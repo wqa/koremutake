@@ -9,7 +9,7 @@ Implementation of Koremutake MeRS encoding/decoding for node.
 ## Usage
     
     var koremutake = require('koremutake');
-    koremutake.encode();
+    koremutake.encode(46767000067);
     // output: beluhujegibo
     koremutake.decode('beluhujegibo');
     //output: 46767000067
