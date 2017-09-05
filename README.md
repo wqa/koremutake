@@ -9,10 +9,10 @@ Implementation of Koremutake MeRS encoding/decoding for node.
 ## Usage
     
     var koremutake = require('koremutake');
-    koremutake.encode(46767000067);
-    // output: NZXWIZI=
+    koremutake.encode();
+    // output: beluhujegibo
     koremutake.decode('beluhujegibo');
-    //output: beluhujegibo
+    //output: 46767000067
 
 
 ## About
