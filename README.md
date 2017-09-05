@@ -20,6 +20,7 @@ Implementation of Koremutake MeRS encoding/decoding for node.
 * For koremutake; see http://shorl.com/koremutake.php
 
 ## Thanks
-* Thanks Josef Falk and Filip Salomsson for coming up with koremutake.
+* Thanks Josef Falk and Filip Salomonsson for coming up with Koremutake.
 * Thanks to pschork for the tests.
 * Thanks to PerBol for reminding me.
+* Thanks Blorn and PJocke for corrections
